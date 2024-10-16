@@ -16,7 +16,7 @@ The first concern in this case is the risk of fire. At that time, there were gen
 
 Secondly, the flight attendants used fire extinguishers to try to extinguish the fireworks in the toilet. When they found that the smoke did not spread, they thought they had extinguished the fireworks, so they reported to the captain. The captain was afraid of missing the arrival time in Toronto, so he continued the flight as a matter of course, but did not Select Alternate for safety inspection. The captain's judgment was the reason why Air Canada Flight 797 suffered such heavy casualties.
 
-最后，当飞机着陆机场后，机上的空中服务员迫不及待打开舱门，以输入清新空气。但这举动却也让机舱内的火灾接触到更多的空气，飞机内开始剧烈燃烧，而浓烟却没有因舱门打开而消散，部分乘客都因为机舱内能见度低而难以找到机门逃生。在不到90秒的时间内，飞机立即发生爆燃现象，把整个机舱完全吞噬，当时机上仍有23名乘客未及逃生。
+
 
 Finally, when the plane landed at the airport, the flight attendant on board couldn't wait to open the door to let in fresh air. But this move also allowed the fire in the cabin to come into contact with more air, and the aircraft began to burn violently. However, the thick smoke did not dissipate when the cabin door was opened. Some passengers had difficulty finding the door to escape because of the low visibility in the cabin. In less than 90 seconds, the plane immediately exploded and completely engulfed the entire cabin. At that time, there were still 23 passengers on board who could not escape.
 
