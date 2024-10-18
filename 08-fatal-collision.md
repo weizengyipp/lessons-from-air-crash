@@ -32,7 +32,7 @@ In the end, the court evidence pointed out that the PA-28-181 pilot's error was 
 
 From the above situation, who is to be blamed does not make much sense in terms of improving safety.
 
-此案过后，美国联邦航空局要求美国空域内的所有大型商用喷气机（30人座以上的客机）配备交通碰撞避免系统（TCAS），并要求在密集空域运行的轻型飞机配备可以报告其高度的C型应答器。
+
 
 After this case, the FAA required all large commercial jets (passenger aircraft with more than 30 seats) in U.S. airspace to be equipped with a Traffic Collision Avoidance System (TCAS), and required light aircraft operating in dense airspace to be equipped with Type C transponder that can report their altitude.&#x20;
 
