@@ -43,3 +43,11 @@ Case - this narrative description, the oldest behavioral pattern of mankind, is 
 
 
 Due to limited abilities, there are inevitably errors and omissions in the article. Contact information: weizengyipp@gmail.com. Criticisms and corrections are welcome.
+
+WeChat Public service：
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/qrcode_for_gh_ccb3bc23d8f2_344.jpg" alt="" width="172"><figcaption></figcaption></figure>
+
+</div>
